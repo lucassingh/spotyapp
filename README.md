@@ -1,16 +1,28 @@
-# Project Lyrics
+# Spoty app
 
 Develop an elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Spotty app is an online music player inspired by spotify, which consumes a rapid api, and allows you to view the top 100 charts, see the best authors and the best albums by geographic location.  It has an animated player with all the necessary functions to listen to your music.
 
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+[Project url](https://www.example.com)
 
 
-## System Requirements
+## Home View 
+
+![spotyapp](https://user-images.githubusercontent.com/25686886/206012315-af236b69-99eb-454a-8be9-303d7407d37e.png)
+
+## Controls
+
+![spotyapp-reproductor](https://user-images.githubusercontent.com/25686886/206012364-fdcda540-caec-4702-9506-cb09d8ec4ff5.png)
+
+
+## Artist View
+
+![spotyapp-artist](https://user-images.githubusercontent.com/25686886/206012411-0eef5368-e6a5-40a5-93c4-9050a14d317f.png)
+
+## Mobile VIew
+
+![image](https://user-images.githubusercontent.com/25686886/206012541-90f39c2d-a2d4-440e-ba6f-0522ea85a0bd.png)
 
 To get started with development, you need to install few tools
 
