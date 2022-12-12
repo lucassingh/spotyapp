@@ -4,8 +4,17 @@ Develop an elegant React.js Music Application.
 
 Spotty app is an online music player inspired by spotify, which consumes a rapid api, and allows you to view the top 100 charts, see the best authors and the best albums by geographic location.  It has an animated player with all the necessary functions to listen to your music.
 
-[Project url](https://www.example.com)
+## Stack 
 
+- Create react app
+- Axios
+- React router dom
+- Redux
+- Swipper
+
+## Url project
+
+[Spoty app](https://www.example.com)
 
 ## Home View 
 
